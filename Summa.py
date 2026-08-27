@@ -1,4 +1,4 @@
-'''
+
 from tkinter import *
 from tkinter import messagebox
 import mysql.connector as m
@@ -189,10 +189,4 @@ for i in range(len(L)-1,-1,-1):
       lst+=[L[i]]
 
 print(lst)
-'''
-S=37000
-
-for i in range(19):
-    S+=(S+500)
-    print(S)
-
+    p
